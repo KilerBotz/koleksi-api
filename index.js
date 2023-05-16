@@ -1,0 +1,6 @@
+module.exports.anime = require('./lib/anime.js')
+module.exports.downloader = require('./lib/downloader.js')
+module.exports.information = require('./lib/information.js')
+module.exports.search = require('./lib/search.js')
+module.exports.hentai = require('./lib/hentai.js')
+module.exports.stalker = require('./lib/stalker.js')
