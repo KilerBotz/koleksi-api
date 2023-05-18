@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instalasi
 ```bash
 $ npm i koleksi-api
@@ -51,5 +52,11 @@ console.log(mlstalk)
 
 const ffstalk = await koleksi.stalker.ffstalk(123456789)
 console.log(ffstalk)
+=======
+# Cara Pakai
+
+```js
+const ytta = require('ytta')
+>>>>>>> refs/remotes/origin/main
 
 ```

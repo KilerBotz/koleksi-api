@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.10",
+    "cheerio": "^1.0.0-rc.10"
   },
-  "keywords": ["koleksi-api","scraper","kilersbotz","botwhatsapp"],
+  "keywords": ["koleksi-api","scraper", "botwhatsapp"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KilerBotz/koleksi-api.git"
