@@ -1,6 +1,6 @@
 {
   "name": "koleksi-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "idk",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "KilersBotz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xfar05/koleksi-api/issues"
+    "url": "https://github.com/KilerBotz/koleksi-api/issues"
   },
   "homepage": "https://github.com/KilerBotz/koleksi-api#readme"
 }
