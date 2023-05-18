@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Instalasi
 ```bash
 $ npm i koleksi-api
